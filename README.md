@@ -19,11 +19,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="dotnet" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="dotnet" width="25" height="25" />
 </p>
-[![Twitter Follow](https://img.shields.io/twitter/follow/fallentreeninja?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=fallentreeninja)
+
+
 
 <!--
 **gillisce/gillisce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[[![Twitter Follow](https://img.shields.io/twitter/follow/fallentreeninja?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/followscreen_name=fallentreeninja)](url)
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
