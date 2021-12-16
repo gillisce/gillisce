@@ -3,6 +3,20 @@
  🔭 I’m currently working on rebuilding my portfolio with Svelte and Tailwind CSS
  
  ======
+ 
+ 📈 GitHub Stats
+ =============================
+ <a href="https://github.com/gillisce/gillisce">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillisce&hide=php,java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/gillisce/gillisce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gillisce&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chris GitHub Stats" />
+ </a>
+ <a href="https://github.com/gillisce/turbo-octo-chainsaw">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gillisce&repo=turbo-octo-chainsaw&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+ 
+ 
 
 🛠️ Tools and Languages 
 =======================
@@ -20,7 +34,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="dotnet" width="25" height="25" />
 </p>
 
+<!-- Actual text -->
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/fallentreeninja
+[2]: https://www.linkedin.com/in/christopher-gillis-01872382/
 
 <!--
 **gillisce/gillisce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
