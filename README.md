@@ -6,15 +6,15 @@
  
  📈 GitHub Stats
  =============================
- <a href="https://github.com/gillisce/gillisce">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillisce&hide=php,java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/gillisce/gillisce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gillisce&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chris GitHub Stats" />
- </a>
+
+ ![](https://github.com/gillisce/custom-github-stats/blob/master/generated/languages.svg)
+ ![](https://github.com/gillisce/custom-github-stats/blob/master/generated/overview.svg) 
+ 
+ 🚧 Current Project
  <a href="https://github.com/gillisce/turbo-octo-chainsaw">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gillisce&repo=turbo-octo-chainsaw&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
+ 
  
  
 
