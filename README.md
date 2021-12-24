@@ -12,9 +12,13 @@
  ![](https://github.com/gillisce/custom-github-stats/blob/master/generated/languages.svg)
  ![](https://github.com/gillisce/custom-github-stats/blob/master/generated/overview.svg) 
  
- 🚧 Current Project
+<h3> 🚧 Current Projects </h3>
+ <br/>
  <a href="https://github.com/gillisce/turbo-octo-chainsaw">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gillisce&repo=turbo-octo-chainsaw&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+ <a href="https://github.com/gillisce/leetcode-files">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gillisce&repo=leetcode-files&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
  
  
