@@ -1,8 +1,6 @@
 ### Hi there 👋
  
- 🔭 I’m currently working on rebuilding my portfolio with Svelte and Tailwind CSS
- <br/>
- 🔄 Working to solve at least 2 leetcode problems a day
+
  
  ======
  
